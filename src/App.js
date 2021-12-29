@@ -15,6 +15,12 @@ function App() {
       title: "New Desk",
       amount: 299.98,
       date: new Date(2021, 5, 12)
+    },
+    {
+      id: "e3",
+      title: "Car Insurance",
+      amount: 100,
+      date: new Date(2021, 8, 30)
     }
   ];
 
